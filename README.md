@@ -1,2 +1,2 @@
-# Sudoku performed on C
+# Sudoku on C
 Made in accordance with rules of French School 42
