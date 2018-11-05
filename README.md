@@ -1,1 +1,1 @@
-# Sudoku made in accordance with the rules of French School 42
+# Sudoku made in accordance with rules of French School 42
