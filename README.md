@@ -1,1 +1,2 @@
-# Sudoku made in accordance with rules of French School 42
+# Sudoku performed on C
+Made in accordance with rules of French School 42
